@@ -1,0 +1,474 @@
+{
+  "codigo": "1. Financiación Básica",
+  "definicion": "\\nComprende el patrimonio neto y la financiación ajena a largo plazo de la empresa destinados, en general, a financiar el activo no corriente y a cubrir un margen razonable del corriente; incluye también situaciones transitorias de financiación.En particular, se aplicarán las siguientes reglas:a) Los pasivos financieros incluidos en este grupo se clasificarán, con carácter general, a efectos de su valoración, en la categoría de «Débitos y partidas a pagar» No obstante, también pueden incluirse en la categoría de «Otros pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias» en los términos establecidos en las normas de registro y valoración. En este grupo también se incluyen los derivados financieros tanto de cobertura como de negociación cuando su liquidación sea superior a un año.b) De acuerdo con lo dispuesto en las normas de elaboración de las cuentas anuales, en este grupo no se pueden incluir los pasivos financieros a largo plazo que, excepcionalmente, se tengan que clasificar en el momento de su reconocimiento inicial en la categoría de «Pasivos financieros mantenidos para negociar» por cumplir los requisitos establecidos en las normas de registro y valoración, salvo los derivados financieros cuyo plazo de liquidación sea superior a un año.c) Si los pasivos financieros se clasifican a efectos de su valoración en más de una categoría, se desarrollarán las cuentas de cuatro o más cifras que sean necesarias para diferenciar la categoría en la que se hayan incluido.d) Si se emiten o asumen pasivos financieros híbridos que de acuerdo con lo establecido en las normas de registro y valoración se valoren en su conjunto por su valor razonable, se incluirán en la cuenta que corresponda a la naturaleza del contrato principal, para lo que se crearán con el debido desglose, cuentas de cuatro o más cifras que identifiquen que se trata de un pasivo financiero híbrido a largo plazo valorado conjuntamente. Cuando se reconozcan separadamente el contrato principal y el derivado implícito, este último se tratará como si se hubiese contratado de forma independiente, por lo que se incluirá en la cuenta de los grupos 1, 2 ó 5 que proceda y el contrato principal se recogerá en la cuenta que corresponda a su naturaleza, desarrollándose con el debido desglose cuentas de cuatro o más cifras que identifiquen que se trata de un contrato principal financiero híbrido a largo plazo.e) Una cuenta que recoja pasivos financieros clasificados en la categoría de «Otros pasivos financieros a valor razonable con cambios en la cuentas de pérdidas y ganancias» se abonará o cargará, por las variaciones en su valor razonable, con cargo o abono, respectivamente, a las cuentas 663 y 763.f) Una cuenta que recoja pasivos financieros que, de acuerdo con lo establecido en las normas de registro y valoración, formen parte de un grupo enajenable de elementos mantenidos para la venta, se cargará en el momento en que se cumplan las condiciones para su clasificación con abono a la respectiva cuenta del subgrupo 58.g) La diferencia entre el valor por el que se reconocen inicialmente los pasivos financieros y su valor de reembolso, se registrará como un abono (o, cuando proceda, como un cargo) en la cuenta donde esté registrado el pasivo financiero con cargo (o abono) a la cuenta del subgrupo 66 que corresponda según la naturaleza del instrumento.Las cuentas de este subgrupo figurarán en el patrimonio neto del balance, formando parte de los fondos propios, con las excepciones establecidas en las cuentas 103 y 104.",
+  "subGroups": [
+    {
+      "definicion": "\\nLas cuentas de este subgrupo figurarán en el patrimonio neto del balance, formando parte de los fondos propios, con las excepciones establecidas en las cuentas 103 y 104.",
+      "cuentas": [
+        {
+          "codigo": "100",
+          "nombre": "Capital social",
+          "definición": "\\nCapital escriturado en las sociedades que revistan forma mercantil, salvo cuando atendiendo a las características económicas de la emisión deba contabilizarse como pasivo financiero.Hasta el momento de su inscripción registral y tratándose de sociedades anónimas, sociedades de responsabilidad limitada y comanditarias por acciones, la emisión y suscripción o asunción, de acciones o participaciones, respectivamente, se registrará de conformidad con lo dispuesto en el subgrupo 19.",
+          "movDebe": "\\nSe cargará por las reducciones del mismo y a la extinción de la sociedad una vez transcurrido el período de liquidación.",
+          "movHaber": "\\nSe abonará por el capital inicial y las sucesivas ampliaciones, en el momento de su inscripción en el Registro Mercantil, con cargo a la cuenta 194."
+        },
+        {
+          "codigo": "101",
+          "nombre": "Fondo social",
+          "definición": "\\nCapital de las entidades sin forma mercantil.",
+          "movDebe": "\\nSu movimiento es análogo al señalado para la cuenta 100.",
+          "movHaber": "\\nSu movimiento es análogo al señalado para la cuenta 100."
+        },
+        {
+          "codigo": "102",
+          "nombre": "Capital",
+          "definición": "\\nCorresponde a las empresas individuales.",
+          "movDebe": "\\n* Por la cesión de los negocios o el cese de los mismos.* Por los resultados negativos que no se carguen para su saneamiento en la cuenta 121, con abono a la cuenta 129.Se abonará o cargará, al final del ejercicio, por el saldo de la cuenta 550, con cargo o abono a dicha cuenta.",
+          "movHaber": "\\n* Por el capital inicial.* Por los resultados positivos capitalizados, con cargo a la cuenta 129.Se abonará o cargará, al final del ejercicio, por el saldo de la cuenta 550, con cargo o abono a dicha cuenta."
+        },
+        {
+          "codigo": "103",
+          "nombre": "Socios por desembolsos no exigidos...",
+          "definición": "\\nCapital social escriturado pendiente de desembolso no exigido a los socios o accionistas, excepto los desembolsos no exigidos correspondientes a los instrumentos financieros cuya calificación contable sea la de pasivo financiero.Figurarán en el patrimonio neto, con signo negativo, minorando la partida de capital social, excepto las cantidades que correspondan a capital emitido pendiente de inscripción que figurarán minorando la partida del pasivo corriente en la que éste se incluye."
+        },
+        {
+          "codigo": "104",
+          "nombre": "Socios por aportaciones no dinerarias pendientes...",
+          "definición": "\\nCapital social escriturado pendiente de desembolso que corresponde a aportaciones no dinerarias, excepto las aportaciones pendientes que correspondan a instrumentos financieros cuya calificación contable sea la de pasivo financiero.Figurarán en el patrimonio neto, con signo negativo,minorando la partida de capital social, excepto las cantidades que correspondan a capital emitido pendiente de inscripción que figurarán minorando la partida del pasivo corriente en la que éste se incluye."
+        },
+        {
+          "codigo": "108",
+          "nombre": "Acciones o participaciones propias en situaciones especiales",
+          "definición": "\\nAcciones o participaciones propias adquiridas por la empresa (sección cuarta del capítulo IV del Texto Refundido de la Ley de Sociedades Anónimas y de la Ley de Sociedades de Responsabilidad Limitada).Figurarán en el patrimonio neto, con signo negativo.",
+          "movDebe": "\\nSe cargarán por el importe de la adquisición de las acciones o participaciones, con abono, generalmente, a cuentas del subgrupo 57.",
+          "movHaber": "\\nSe abonarán:* Por la enajenación de las acciones o participaciones, con cargo, generalmente, a cuentas del subgrupo 57. La diferencia entre la cantidad obtenida en la enajenación de las acciones o participaciones propias y su valor contable se cargará o abonará, según proceda, a cuentas del subgrupo 11.* Por la reducción de capital, con cargo a la cuenta 100 por el importe del nominal de las acciones o participaciones. La diferencia entre el importe de adquisición de las acciones o participaciones y su valor nominal se cargará o abonará, según proceda, a cuentas del subgrupo 11."
+        },
+        {
+          "codigo": "109",
+          "nombre": "Acciones o participaciones propias para reducción de capital",
+          "definición": "\\nAcciones o participaciones propias adquiridas por la empresa en ejecución de un acuerdo de reducción de capital adoptado por la Junta General (art. 170 del Texto Refundido de la Ley de Sociedades Anónimas y art. 40 de la Ley de Sociedades de Responsabilidad Limitada).Figurarán en el patrimonio neto, con signo negativo.",
+          "movDebe": "\\nSe cargarán por el importe de la adquisición de las acciones, con abono, generalmente, a cuentas del subgrupo 57.",
+          "movHaber": "\\nSe abonarán por la reducción de capital, con cargo a la cuenta 100 por el importe del nominal de las acciones o participaciones. La diferencia entre el importe de adquisición de las acciones o participaciones y su valor nominal se cargará o abonará, según proceda, a cuentas del subgrupo 11."
+        }
+      ]
+    },
+    {
+      "definicion": "\\nLas cuentas de este subgrupo figurarán en el patrimonio neto del balance, formando parte de los fondos propios.",
+      "cuentas": [
+        {
+          "codigo": "110",
+          "nombre": "Prima de emisión o asunción",
+          "definición": "\\nAportación realizada por los accionistas o socios en el caso de emisión y colocación de acciones o participaciones a un precio superior a su valor nominal. En particular, incluye las diferencias que pudieran surgir entre los valores de escritura y los valores por los que deben registrarse los bienes recibidos en concepto de aportación no dineraria, de acuerdo con lo dispuesto en las normas de registro y valoración.",
+          "movDebe": "\\nSe cargará por la disposición que de la prima pueda realizarse.",
+          "movHaber": "\\nSe abonará, con cargo, generalmente, a la cuenta 111 ó 194."
+        },
+        {
+          "codigo": "111",
+          "nombre": "Patrimonio neto por emisión de instrumentos financieros compuestos",
+          "definición": "\\nComponente del patrimonio neto que surge por la emisión de un instrumento financiero compuesto. En particular, por la emisión de obligaciones convertibles en acciones.",
+          "movDebe": "\\nSe cargará con abono a las cuentas 100 ó 110, cuando se produzca la conversión.",
+          "movHaber": "\\nSe abonará por el componente de patrimonio neto del instrumento financiero, con cargo, generalmente, a cuentas del subgrupo 57.",
+          "ejemplos": {}
+        },
+        {
+          "codigo": "112",
+          "nombre": "Reserva legal",
+          "definición": "\\nEsta cuenta registrará la reserva establecida por el artículo 214 del Texto Refundido de la Ley de Sociedades Anónimas.",
+          "movDebe": "\\nSe cargará por la disposición que se haga de esta reserva.",
+          "movHaber": "\\nSe abonará, generalmente, con cargo a la cuenta 129."
+        },
+        {
+          "codigo": "113",
+          "nombre": "Reservas voluntarias",
+          "definición": "\\nSon las constituidas libremente por la empresa. Su movimiento es análogo al señalado para la cuenta 112, sin perjuicio de lo indicado en los siguientes párrafos: Cuando se produzca un cambio de criterio contable o la subsanación de un error, el ajuste por el efecto acumulado calculado al inicio del ejercicio, de las variaciones de los elementos patrimoniales afectados por la aplicación retroactiva del nuevo criterio o la corrección del error, se imputará a reservas de libre disposición. Con carácter general, se imputará a las reservas voluntarias, registrándose del modo siguiente:",
+          "movDebe": "\\nSe cargará por el importe resultante del efecto neto deudor de los cambios experimentados por la aplicación de un nuevo criterio contable comparado con el antiguo o por la corrección de un error contable, con cargo o abono, en su caso, a las respectivas cuentas representativas de los elementos patrimoniales afectados por este hecho, incluyendo las relacionadas con la contabilización del efecto impositivo del ajuste.",
+          "movHaber": "\\nSe abonará por el importe resultante del efecto neto acreedor de los cambios experimentados por la aplicación de un nuevo criterio contable comparado con el antiguo o por la corrección del error, con cargo y abono, en su caso, a las respectivas cuentas representativas de los elementos patrimoniales afectados por este hecho, incluyendo las relacionadas con la contabilización del efecto impositivo del ajuste."
+        },
+        {
+          "codigo": "114",
+          "nombre": "Reservas especiales",
+          "definición": "\\nLas establecidas por cualquier disposición legal con carácter obligatorio, distintas de las incluidas en otras cuentas de este subgrupo.En particular, se incluye la reserva por participaciones recíprocas establecida en el artículo 84 del Texto Refundido de la Ley de Sociedades Anónimas."
+        },
+        {
+          "codigo": "115",
+          "nombre": "Reservas por pérdidas y ganancias actuariales y otros ajustes",
+          "definición": "\\nComponente del patrimonio neto que surge del reconocimiento de pérdidas y ganancias actuariales y de los ajustes en el valor de los activos por retribuciones postempleo al personal de prestación definida, de acuerdo con lo dispuesto en las normas de registro y valoración.",
+          "movDebe": "\\nSe cargará:* Al cierre del ejercicio, por el importe de la pérdida reconocida, con abono a cuentas del subgrupo 85.* Por el gasto por impuesto sobre beneficios relacionado con estos aspectos, con abono a las cuentas del subgrupo 83.",
+          "movHaber": "\\nSe abonará:* Al cierre del ejercicio, por el importe de la ganancia reconocida, con cargo a cuentas del subgrupo 95.* Por el gasto por impuesto sobre beneficios relacionado con estos aspectos, con cargo a las cuentas del subgrupo 83.",
+          "ejemplos": {}
+        },
+        {
+          "codigo": "118",
+          "nombre": "Aportaciones de socios o propietarios",
+          "definición": "\\nElementos patrimoniales entregados por los socios o propietarios de la empresa cuando actúen como tales, en virtud de operaciones no descritas en otras cuentas. Es decir, siempre que no constituyan contraprestación por la entrega de bienes o la prestación de servicios realizados por la empresa, ni tengan la naturaleza de pasivo. En particular, incluye las cantidades entregadas por los socios o propietarios para compensación de pérdidas.",
+          "movDebe": "\\nSe cargará:* Generalmente, con abono a la cuenta 121.* Por la disposición que de la aportación pueda realizarse.",
+          "movHaber": "\\nSe abonará con cargo, generalmente, a cuentas del subgrupo 57 o a las cuentas representativas de los bienes no dinerarios aportados."
+        },
+        {
+          "codigo": "119",
+          "nombre": "Diferencias por ajuste del capital a euros",
+          "definición": "\\nDiferencias originadas como consecuencia de la conversión a euros de la cifra de capital de acuerdo con el contenido de la Ley 46/1998, de 17 de diciembre, sobre Introducción del Euro."
+        }
+      ]
+    },
+    {
+      "definicion": "\\nLas cuentas de este subgrupo figurarán en el patrimonio neto del balance, formando parte de los fondos propios, con signo positivo o negativo, según corresponda.",
+      "cuentas": [
+        {
+          "codigo": "120",
+          "nombre": "Remanente",
+          "definición": "\\nBeneficios no repartidos ni aplicados específicamente a ninguna otra cuenta, tras la aprobación de las cuentas anuales y de la distribución de resultados.",
+          "movDebe": "\\nSe cargará: * Por su aplicación o disposición, con abono, generalmente, a cuentas del subgrupo 57.* Por su traspaso, con abono, a cuentas del subgrupo 11.",
+          "movHaber": "\\nSe abonará con cargo a la cuenta 129."
+        },
+        {
+          "codigo": "121",
+          "nombre": "Resultados negativos de ejercicios anteriores",
+          "definición": "\\nResultados negativos de ejercicios anteriores.La empresa desarrollará en cuentas de cuatro cifras el resultado negativo de cada ejercicio.",
+          "movDebe": "\\nSe cargará con abono a la cuenta 129.",
+          "movHaber": "\\nSe abonará con cargo a la cuenta o cuentas con las que se cancele su saldo."
+        },
+        {
+          "codigo": "129",
+          "nombre": "Resultados del ejercicio",
+          "definición": "\\nResultados, positivos o negativos, del último ejercicio cerrado, pendiente de aplicación.",
+          "movDebe": "\\nSe cargará:* Para determinar el resultado del ejercicio, con abono a las cuentas de los grupos 6 y 7 que presenten al final del ejercicio saldo deudor.* Cuando se aplique el resultado positivo conforme al acuerdo de distribución del resultado, con abono a las cuentas que correspondan.",
+          "movHaber": "\\nSe abonará:* Para determinar el resultado del ejercicio, con cargo a las cuentas de los grupos 6 y 7 que presenten al final del ejercicio saldo acreedor.* Por el traspaso del resultado negativo, con cargo a la cuenta 121."
+        }
+      ]
+    },
+    {
+      "definicion": "\\nSubvenciones donaciones y legados, no reintegrables, otorgados por terceros distintos a los socios o propietarios, recibidos por la empresa y otros ingresos y gastos contabilizados directamente en el patrimonio neto, hasta que de conformidad con lo previsto en las normas de registro y valoración, se produzca, en su caso, su transferencia o imputación a la cuenta de pérdidas y ganancias.Las cuentas de este subgrupo figurarán en el patrimonio neto.",
+      "cuentas": [
+        {
+          "codigo": "130",
+          "nombre": "Subvenciones oficiales de capital",
+          "definición": "\\nLas concedidas por las Administraciones Públicas, tanto nacionales como internacionales, para el establecimiento o estructura fija de la empresa (activos no corrientes) cuando no sean reintegrables, de acuerdo con los criterios establecidos en las normas de registro y valoración.",
+          "movDebe": "\\nSe cargará:* Al cierre del ejercicio, por la imputación a la cuenta de pérdidas y ganancias  de la subvención recibida, con abono a la correspondiente cuenta del subgrupo 84. *  Por el gasto por impuesto sobre beneficios vinculado a la subvención registrada directamente en el patrimonio neto, con abono a las cuentas del subgrupo 83.",
+          "movHaber": "\\nSe abonará:* Al cierre del ejercicio, por la subvención concedida, con cargo a la correspondiente cuenta del subgrupo 94.* Por el gasto por impuesto sobre beneficios vinculado a la subvención imputada o transferida a la cuenta de pérdidas y ganancias, con cargo a las cuentas del subgrupo 83."
+        },
+        {
+          "codigo": "131",
+          "nombre": "Donaciones y legados de capital",
+          "definición": "\\nLas donaciones y legados concedidos por empresas o particulares, para el establecimiento o estructura fija de la empresa (activos no corrientes) cuando no sean reintegrables, de acuerdo con los criterios establecidos en las normas de registro y valoración.",
+          "movDebe": "\\nSu movimiento es análogo al señalado para la cuenta 130.",
+          "movHaber": "\\nSu movimiento es análogo al señalado para la cuenta 130."
+        },
+        {
+          "codigo": "132",
+          "nombre": "Otras subvenciones, donaciones y legados",
+          "definición": "\\nLas subvenciones, donaciones y legados concedidos que no figuran en las cuentas anteriores, cuando no sean reintegrables, y se encuentren pendientes de imputar al resultado de acuerdo con los criterios establecidos en las normas de registro y valoración. Es el caso de las subvenciones concedidas para financiar programas que generarán gastos futuros.",
+          "movDebe": "\\nSu movimiento es análogo al señalado para la cuenta 130.",
+          "movHaber": "\\nSu movimiento es análogo al señalado para la cuenta 130."
+        },
+        {
+          "codigo": "133",
+          "nombre": "Ajustes por valoración en instrumentos financieros",
+          "definición": "\\nAjustes producidos por la valoración a valor razonable de los activos financieros clasificados en la categoría de disponibles para la venta, de acuerdo con la norma de registro y valoración relativa a los instrumentos financieros.",
+          "movDebe": "\\nSe cargarán:* Al cierre del ejercicio, por las variaciones negativas en el valor razonable de los activos financieros disponibles para la venta, con abono a la cuenta 800.* Al cierre del ejercicio, por la transferencia de beneficios en activos financieros disponibles para la venta, con abono a la cuenta 802.* Al cierre del ejercicio, por el deterioro en inversiones en patrimonio de empresas del grupo, multigrupo y asociadas que previamente hubieran ocasionado ajustes valorativos por aumento de valor, con abono a las correspondientes cuentas del subgrupo 89.* Por el gasto por impuesto sobre beneficios originado por estos ajustes, con abono a las cuentas del subgrupo 83.* Por las variaciones de valor positivas imputadas directamente al patrimonio neto en activos financieros disponibles para la venta, cuando se haya producido una combinación de negocios por etapas, con abono a la cuenta en la que esté registrada la participación.",
+          "movHaber": "\\nSe abonará:* Al cierre del ejercicio, por las variaciones positivas en el valor razonable de los activos financieros disponibles para la venta, con cargo a la cuenta 900.* Al cierre del ejercicio, por las transferencias de pérdidas de activos financieros disponibles para la venta, con cargo a la cuenta 902.* Al cierre del ejercicio, cuando se hubieran realizado inversiones previas a la consideración de participaciones en el patrimonio como de empresas de grupo, multigrupo o asociadas, por la recuperación o la transferencia a la cuenta de pérdidas y ganancias por deterioro de los ajustes valorativos por reducciones de valor imputados directamente en el patrimonio neto, con cargo a las correspondientes cuentas del subgrupo 99.* Por el gasto por impuesto sobre beneficios originado por estos ajustes, con cargo a las cuentas del subgrupo 83.* Por las variaciones de valor negativas imputadas directamente al patrimonio neto en activos financieros disponibles para la venta, cuando se haya producido una combinación de negocios por etapas, con cargo a la cuenta en la que esté registrada la participación."
+        },
+        {
+          "codigo": "134",
+          "nombre": "Operaciones de cobertura",
+          "definición": "\\nCuenta para las operaciones de cobertura.\\nEn las subcuentas podrá ver casos específicos.",
+          "ejemplos": {}
+        },
+        {
+          "codigo": "135",
+          "nombre": "Diferencias de conversión",
+          "definición": "\\nDiferencia que surge al convertir a la moneda de presentación, euro, las partidas del balance y de la cuenta de pérdidas y ganancias en el caso de que la moneda funcional sea distinta de la moneda de presentación.",
+          "movDebe": "\\nSe cargará:* Al cierre del ejercicio, por los gastos por diferencias de conversión, con abono a la cuenta 820.*Al cierre del ejercicio, por la transferencia de diferencias de conversión positivas, con abono a la cuenta 821.* Por el gasto por impuesto sobre beneficios vinculado a la diferencia de conversión, con abono a las cuentas del subgrupo 83.",
+          "movHaber": "\\nSe abonará:* Al cierre del ejercicio,por los ingresos por diferencias de conversión, con cargo a la cuenta 920.*Al cierre del ejercicio, por la transferencia de diferencias de conversión negativas, con cargo a la cuenta 921.* Por el gasto por impuesto sobre beneficios vinculado a la diferencia de conversión, con cargo a las cuentas del subgrupo 83."
+        },
+        {
+          "codigo": "136",
+          "nombre": "Ajustes por valoración en activos no corrientes y grupos enajenables de elementos mantenidos para la venta",
+          "definición": "\\nAjustes por valor razonable de activos no corrientes clasificados como mantenidos para la venta, y de activos y pasivos directamente asociados, clasificados como grupos enajenables de elementos mantenidos para la venta, cuyas variaciones de valor, previamente a su clasificación en este categoría, ya se imputaban directamente a otra cuenta del subgrupo 13.",
+          "movDebe": "\\n* En el momento de su clasificación en esta categoría, se abonará o cargará, por la variación de valor imputada directamente al patrimonio neto hasta dicho momento, con cargo o abono, a las correspondientes cuentas de este subgrupo 13.* Posteriormente, se abonará o cargará, por la variación en el valor de los activos no corrientes mantenidos para la venta, y de activos y pasivos directamente asociados clasificados como grupos enajenables de elementos mantenidos para la venta, con cargo o abono, respectivamente, a las cuentas de los grupos 96 y 86.* Los motivos de cargo y abono correspondientes al efecto impositivo, son análogos a las señaladas para la cuenta 133.",
+          "movHaber": "\\n* En el momento de su clasificación en esta categoría, se abonará o cargará, por la variación de valor imputada directamente al patrimonio neto hasta dicho momento, con cargo o abono, a las correspondientes cuentas de este subgrupo 13.* Posteriormente, se abonará o cargará, por la variación en el valor de los activos no corrientes mantenidos para la venta, y de activos y pasivos directamente asociados clasificados como grupos enajenables de elementos mantenidos para la venta, con cargo o abono, respectivamente, a las cuentas de los grupos 96 y 86.* Los motivos de cargo y abono correspondientes al efecto impositivo, son análogos a las señaladas para la cuenta 133."
+        },
+        {
+          "codigo": "137",
+          "nombre": "Ingresos fiscales a distribuir en varios ejercicios",
+          "definición": "\\nVentajas fiscales materializadas en diferencias permanentes y deducciones y bonificaciones que, por tener una naturaleza económica asimilable a las subvenciones, son objeto de imputación a la cuenta de pérdidas y ganancias en varios ejercicios.A estos efectos, las diferencias permanentes se materializan, con carácter general, en ingresos que no se incorporan en la determinación de la base imponible del impuesto sobre beneficios y que no revierten en periodos posteriores.Su movimiento se realiza a través de las cuentas de cuatro cifras."
+        }
+      ]
+    },
+    {
+      "definicion": "\\nObligaciones expresas o tácitas a largo plazo, claramente especificadas en cuanto a su naturaleza, pero que, en la fecha de cierre del ejercicio, son indeterminadas en cuanto a su importe exacto o a la fecha en que se producirán.Las cuentas de este subgrupo figurarán en el pasivo no corriente del balance.La parte de las provisiones cuya cancelación se prevea en el corto plazo deberá figurar en el pasivo corriente del balance, en el epígrafe Provisiones a corto plazo; a estos efectos se traspasará el importe que representen las provisiones con vencimiento a corto a las cuentas de cuatro cifras correspondientes de la cuenta 529.",
+      "cuentas": [
+        {
+          "codigo": "140",
+          "nombre": "Provisión para retribuciones y otras prestaciones al personal.",
+          "definición": "\\nObligaciones legales, contractuales o implícitas con el personal de la empresa, distintas de las recogidas en las cuentas 146 y 147, sobre las que existe incertidumbre acerca de su cuantía o vencimiento, tales como retribuciones a largo plazo de prestación definida o prestaciones por incapacidad.La provisión correspondiente a retribuciones a largo plazo de prestación definida se cuantificará teniendo en cuenta los eventuales activos afectos, en los términos recogidos en las normas de registro y valoración.Si de la aplicación de lo dispuesto en esta norma surgiese un activo, la empresa creará la correspondiente cuenta en el grupo 2 que figurará en el activo no corriente del balance, en la partida \"Otras inversiones\".Los motivos de cargo y abono de este activo serán análogos a los señalados para la presente cuenta 140.",
+          "movDebe": "\\nSe cargará:* Por la disposición que se realice de la provisión, con abono, generalmente, a cuentas del subgrupo 57.* Por el reconocimiento de ganancias actuariales, con abono a la cuenta 950, en caso de tratarse de retribuciones post-empleo, debiendo abonarse a una cuenta del subgrupo 64 en las restantes retribuciones a largo plazo al personal.* Por el rendimiento esperado de los activos afectos, con abono a la cuenta 767.* Por el exceso de provisión, con abono a la cuenta 7950.",
+          "movHaber": "\\nSe abonará:* Por las estimaciones de los devengos anuales, con cargo a cuentas del subgrupo 64.* Por el reconocimiento de pérdidas actuariales, con cargo a la cuenta 850, en carso de tratarse de retribuciones post-empleo, debiendo cargarse a una cuenta del subgrupo 64 en las restantes retribuciones a largo plazo al personal.* Por el importe de los ajustes que surjan por la actualización de valores, con cargo a la cuenta 660.* Por el importe imputado a la cuenta de pérdidas y ganancias de los costes por servicios pasados, con cargo a la cuenta 6442."
+        },
+        {
+          "codigo": "141",
+          "nombre": "Provisión para impuestos",
+          "definición": "\\nImporte estimado de deudas tributarias cuyo pago está indeterminado en cuanto a su importe exacto o a la fecha en que se producirá, dependiendo del cumplimiento o no de determinadas condiciones.",
+          "movDebe": "\\nSe cargará:* Cuando se aplique la provisión, con abono a cuentas del subgrupo 47.* Por el exceso de provisión, con abono a la cuenta 7951",
+          "movHaber": "\\nSe abonará por la estimación del devengo anual, con cargo a las cuentas de gasto correspondientes a los distintos componentes que las integren. En particular:* A cuentas del subgrupo 63 por la parte de la provisión correspondiente a la cuota del ejercicio.* A cuentas del subgrupo 66 por los intereses de demora correspondientes al ejercicio.* A la cuenta 678, en su caso, por la sanción asociada.* A la cuenta 113 por la cuota y los intereses correspondientes a ejercicios anteriores."
+        },
+        {
+          "codigo": "142",
+          "nombre": "Provisión para otras responsabilidades",
+          "definición": "\\nPasivos no financieros surgidos por obligaciones de cuantía indeterminada no incluidas en ninguna de las restantes cuentas de este subgrupo; entre otras, las procedentes de litigios en curso, indemnizaciones u obligaciones derivados de avales y otras garantías similares a cargo de la empresa.",
+          "movDebe": "\\nSe cargará:* A la resolución firme del litigio, o cuando se conozca el importe definitivo de la indemnización o el pago, con abono, generalmente, a cuentas del subgrupo 57.* Por el exceso de provisión, con abono a la cuenta 7952.",
+          "movHaber": "\\nSe abonará:* Al nacimiento de la obligación que determina la indemnización o pago, o por cambios posteriores en su importe que supongan un incremento de la provisión con cargo, generalmente, a las cuentas del grupo 6 que correspondan.* Por el importe de los ajustes que surjan por la actualización de valores, con cargo a la cuenta 660."
+        },
+        {
+          "codigo": "143",
+          "nombre": "Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado.",
+          "definición": "\\nImporte estimado de los costes de desmantelamiento o retiro del inmovilizado, así como la rehabilitación del lugar sobre el que se asienta. La empresa puede incurrir en estas obligaciones en el momento de adquirir el inmovilizado o para poder utilizar el mismo durante un determinado periodo de tiempo.Cuando se incurra en esta obligación en el momento de adquirir el inmovilizado o surja como consecuencia de utilizar el inmovilizado con propósito distinto a la producción de existencias, su movimiento es el siguiente:",
+          "movDebe": "\\nSe cargará:* Al cierre del ejercicio, por las disminuciones en el importe de la provisión originadas por una nueva estimación de su importe, con abono, generalmente, a cuentas del subgrupo 21.* Cuando se aplique la provisión, con abono, generalmente, a cuentas del subgrupo 57.Cuando se incurra en la obligación como consecuencia de haber utilizado el inmovilizado para producir existencias, su movimiento es análogo al señalado para la cuenta 142.",
+          "movHaber": "\\nSe abonará:* Al nacimiento de la obligación, o por cambios posteriores en su importe que supongan un incremento de la provisión, con cargo, generalmente, a cuentas del subgrupo 21.* Por el importe de los ajustes que surjan por la actualización de valores, con cargo a la cuenta 660.Cuando se incurra en la obligación como consecuencia de haber utilizado el inmovilizado para producir existencias, su movimiento es análogo al señalado para la cuenta 142."
+        },
+        {
+          "codigo": "145",
+          "nombre": "Provisión para actuaciones medioambientales",
+          "definición": "\\nObligaciones legales, contractuales o implícitas de la empresa o compromisos adquiridos por la misma, de cuantía indeterminada, para prevenir o reparar daños sobre el medio ambiente, salvo las que tengan su origen en el desmantelamiento, retiro o rehabilitación del inmovilizado, que se contabilizarán según lo establecido en la cuenta 143.",
+          "movDebe": "\\nSe cargará:\\n\\nCuando se aplique la provisión, con abono, generalmente, a cuentas del subgrupo 57.\\nPor el exceso de provisión, con abono a la cuenta 7955.\\n",
+          "movHaber": "\\nSe abonará:\\n\\nAl nacimiento de la obligación o por cambios posteriores en su importe que supongan un incremento de la provisión, con cargo a la cuenta 622 ó 623.\\nPor el importe de los ajustes que surjan por la actualización de valores, con cargo a a la cuenta 660.\\n"
+        },
+        {
+          "codigo": "146",
+          "nombre": "Provisión para reestructuraciones",
+          "definición": "\\nImporte estimado de los costes que surjan directamente de una reestructuración, siempre y cuando se cumplan las dos condiciones siguientes:- Estén necesariamente impuestos por la reestructuración.- No estén asociados con las actividades que continúan en la empresa.A estos efectos, se entiende por reestructuración un programa de actuación planificado y controlado por la empresa, que produzca un cambio significativo en:- El alcance de la actividad llevado a cabo por la empresa, o- La manera de llevar la gestión de su actividad.",
+          "movDebe": "\\nSe cargará:* Cuando se aplique la provisión, con abono, generalmente, a cuentas del subgrupo 57.* Por el exceso de la provisión, con abono a la cuenta 7956.",
+          "movHaber": "\\nSe abonará:* Al nacimiento de la obligación o por cambios posteriores en su importe que supongan un incremento de la provisión, con cargo, generalmente, a cuentas de los subgrupos 62 y 64.* Por el importe de los ajustes que surjan por la actualización de valores, con cargo a la cuenta 660."
+        },
+        {
+          "codigo": "147",
+          "nombre": "Provisiones por transacciones con pagos basados en instrumentos de patrimonio",
+          "definición": "\\nImporte estimado de la obligación asumida por la empresa como consecuencia de una transacción con pagos basados en instrumentos de patrimonio que se liquiden con un importe efectivo que esté basado en el valor de dichos instrumentos.",
+          "movDebe": "\\nSe cargará:* Cuando se aplique la provisión, con abono, generalmente, a cuentas del subgrupo 57.* Por el exceso de provisión, con abono a la cuenta 7957.",
+          "movHaber": "\\nSe abonará:* Al nacimiento de la obligación o por cambios posteriores en su importe que supongan un incremento de la provisión, con cargo, generalmente, a cuentas de los subgrupos 62 ó 64.* Por el importe de los ajustes que surjan por la actualización de valores, con cargo a la cuenta 660."
+        }
+      ]
+    },
+    {
+      "definicion": "\\nAcciones u otras participaciones en el capital de la empresa que, atendiendo a las características económicas de la emisión, deban considerarse como pasivo financiero.La parte de las deudas a largo plazo con características especiales que tenga vencimiento a corto deberá figurar en el pasivo corriente del balance, en el epígrafe Deudas con características especiales a corto plazo; a estos efectos se traspasará el importe que representen estas deudas a largo plazo con vencimiento a corto a la cuenta 502.",
+      "cuentas": [
+        {
+          "codigo": "150",
+          "nombre": "Acciones o participaciones a largo plazo contabilizadas como pasivo",
+          "definición": "\\nCapital social escriturado y, en su caso, prima de emisión o asunción en las sociedades que revistan forma mercantil que, atendiendo a las características de la emisión, deba contabilizarse como pasivo financiero. En particular, determinadas acciones rescatables y acciones o participaciones sin voto.Figurarán en el pasivo no corriente del balance en el epígrafe \"Deudas con características especiales a largo plazo\".",
+          "movDebe": "\\nSe cargará por la cancelación o reducciones del mismo y a la extinción de la sociedad, una vez transcurrido el período de liquidación.",
+          "movHaber": "\\nSe abonará por el capital inicial y las sucesivas ampliaciones, en el momento de su inscripción en el Registro Mercantil, con cargo a la cuenta 199."
+        },
+        {
+          "codigo": "153",
+          "nombre": "Desembolsos no exigidos por acciones o participaciones contabilizadas como pasivo.",
+          "definición": "\\nCapital social escriturado no exigido correspondiente a los instrumentos financieros cuya calificación contable sea la de pasivo financiero.Figurarán en el pasivo no corriente del balance con signo negativo, minorando el epígrafeDeudas con características especiales a largo plazo.1533. Desembolsos no exigidos, empresas del grupo1534. Desembolsoa no exigidos, empresas asociadas1535. Desembolsos no exigidos, otras partes vinculadas1536. Otros desembolsos no exigidosEl movimiento de las cuentas citadas de cuatro cifras es el siguiente:1533/1534/1535/1536",
+          "movDebe": "\\nSe cargarán por el valor nominal no desembolsado de las acciones suscritas o participaciones asumidas, con abono, generalmente, a las cuentas 195 ó 197.",
+          "movHaber": "\\nSe abonarán por los desembolsos exigidos, con cargo a la cuenta 5585."
+        },
+        {
+          "codigo": "154",
+          "nombre": "Aportaciones no dinerarias pendientes por acciones o participaciones contabilizadas como pasivo",
+          "definición": "\\nCapital social escriturado pendiente de desembolso por aportaciones no dinerarias, correspondiente a los instrumentos financieros cuya calificación contable sea la de pasivo financiero.Figurarán en el pasivo no corriente del balance, con signo negativo, minorando el epígrafe Deudas con características especiales a largo plazo.1543. Aportaciones no dinerarias pendientes, empresas del grupo1544. Aportaciones no dinerarias pendientes, empresas asociadas1545. Aportaciones no dinerarias pendientes, otras partes vinculadas1546. Otras aportaciones no dinerarias pendientesEl movimiento de las cuentas citadas de cuatro cifras es el siguiente:1543/1544/1545/1546",
+          "movDebe": "\\nSe cargarán por el valor nominal no desembolsado de las acciones suscritas o participaciones asumidas, con abono, generalmente, a las cuentas 195 ó 197.",
+          "movHaber": "\\nSe abonarán cuando se realicen los desembolsos, con cargo a las cuentas representativas de los bienes no dinerarios aportados."
+        }
+      ]
+    },
+    {
+      "definicion": "\\nDeudas cuyo vencimiento vaya a producirse en un plazo superior a un año, contraídas con empresas del grupo, multigrupo, asociadas y otras partes vinculadas, incluidos los intereses devengados con vencimiento superior a un año. En este subgrupo se recogerán, en las cuentas de tres o más cifras que se desarrollen, las deudas que por su naturaleza debieran figurar en los subgrupos 17 ó 18.En caso de que las deudas devenguen intereses explícitos con vencimiento superior a un año, se crearán las cuentas necesarias para identificarlos, debiendo figurar en el balance en la misma partida en la que se incluya el pasivo que los genera.Las cuentas de este subgrupo figurarán en el pasivo no corriente del balance.La parte de las deudas a largo plazo que tenga vencimiento a corto deberá figurar en el pasivo corriente del balance, en el epígrafe Deudas con empresas del grupo y asociadas a corto plazo; a estos efectos se traspasará el importe que representen las deudas a largo plazo con vencimiento a corto a las cuentas correspondientes del subgrupo 51.",
+      "cuentas": [
+        {
+          "codigo": "160",
+          "nombre": "Deudas a largo plazo con entidades de crédito vinculadas",
+          "definición": "\\nLas contraídas con entidades de crédito vinculadas por préstamos recibidos y otros débitos, con vencimiento superior a un año.1603. Deudas a largo plazo con entidades de crédito, empresas del grupo1604. Deudas a largo plazo con entidades de crédito, empresas asociadas1605. Deudas a largo plazo con otras entidades de crédito vinculadasSe incluirá con el debido desarrollo en cuentas de cinco o más cifras, el importe de las deudas porefectos descontados.El movimiento de las cuentas citadas de cuatro cifras es el siguiente:1603/1604/1605",
+          "movDebe": "\\nSe cargará por el reintegro anticipado, total o parcial, con abono, a cuentas del subgrupo 57.Se incluirá con el debido desarrollo en cuentas de cinco o más cifras, el importe de las deudas a largo plazo por efectos descontados.",
+          "movHaber": "\\nSe abonarán:* A la formalización de la deuda o préstamo, por el importe recibido, minorado en los gastos de la transacción, con cargo, generalmente, a cuentas del subgrupo 57.* Por el gasto financiero devengado hasta alcanzar el valor de reembolso de la deuda, con cargo, generalmente, a la cuenta 662.Se incluirá con el debido desarrollo en cuentas de cinco o más cifras, el importe de las deudas a largo plazo por efectos descontados."
+        },
+        {
+          "codigo": "161",
+          "nombre": "Proveedores de inmovilizado a largo plazo, partes vinculadas",
+          "definición": "\\nDeudas con partes vinculadas en calidad de suministradores de bienes definidos en el grupo 2, incluidas las formalizadas en efectos de giro, con vencimiento superior a un año.1613. Proveedores de inmovilizado a largo plazo, empresas del grupo1614. Proveedores de inmovilizado a largo plazo, empresas asociadas1615. Proveedores de inmovilizado a largo plazo, otras partes vinculadasEl movimiento de las cuentas citadas de cuatro cifras es el siguiente:1613/1614/1615",
+          "movDebe": "\\nSe cargará por la cancelación anticipada, total o parcial, de las deudas, con abono, generalmente, a cuentas del subgrupo 57.",
+          "movHaber": "\\nSe abonará:* Por la recepción a conformidad de los bienes suministrados, con cargo a cuentas del grupo 2.* Por el gasto financiero devengado hasta alcanzar el valor de reembolso de la deuda, con cargo, generalmente, a la cuenta 662."
+        },
+        {
+          "codigo": "162",
+          "nombre": "Acreedores por arrendamiento financiero a largo plazo, partes vinculadas",
+          "definición": "\\nDeudas con vencimiento superior a un año con partes vinculadas en calidad de cedentes del uso de bienes en acuerdos que deban calificarse como arrendamientos financieros en los términos recogidos en las normas de registro y valoración.1623. Acreedores por arrendamiento financiero a largo plazo, empresas del grupo1624. Acreedores por arrendamiento financiero a largo plazo, empresas asociadas1625. Acreedores por arrendamiento financiero a largo plazo, con otras partes vinculadasEl movimiento de las cuentas citadas de cuatro cifras es el siguiente:1623/1624/1625",
+          "movDebe": "\\nSe cargarán por la cancelación anticipada, total o parcial, de las deudas, con abono, generalmente, a cuentas del subgrupo 57.",
+          "movHaber": "\\nSe abonarán:* Por la recepción a conformidad del derecho de uso sobre los bienes suministrados, con cargo a cuentas del grupo 2.* Por el gasto financiero devengado hasta alcanzar el valor de reembolso de la deuda, con cargo, generalmente, a la cuenta 662.",
+          "ejemplos": {}
+        },
+        {
+          "codigo": "163",
+          "nombre": "Otras deudas a largo plazo con partes vinculadas",
+          "definición": "\\nLas contraídas con partes vinculadas por préstamos recibidos y otros débitos no incluidos en otras cuentas de este subgrupo, con vencimiento superior a un año.1633. Otras deudas a largo plazo, empresas del grupo1634. Otras deudas a largo plazo, empresas asociadas1635. Otras deudas a largo plazo, con otras partes vinculadas",
+          "movDebe": "\\nEl movimiento de las cuentas citadas de cuatro cifras es análogo al señalado para la cuenta 160.",
+          "movHaber": "\\nEl movimiento de las cuentas citadas de cuatro cifras es análogo al señalado para la cuena 160"
+        }
+      ]
+    },
+    {
+      "definicion": "\\nFinanciación ajena a largo plazo contraída con terceros que no tengan la calificación de partes vinculadas, incluyendo los intereses devengados con vencimiento superior a un año. La emisión y suscripción de los valores negociables se registrarán en la forma que las empresas tengan por conveniente mientras se encuentran los valores en periodo de suscripción.En caso de que las deudas devenguen intereses explícitos con vencimiento superior a un año, se crearán las cuentas necesarias para identificarlos, debiendo figurar en el balance en la misma partida en la que se incluya el pasivo que los genera.Las cuentas de este subgrupo figurarán en el pasivo no corriente del balance.La parte de las deudas a largo plazo que tenga vencimiento a corto deberá figurar en el pasivo corriente del balance, en el epígrafe Deudas a corto plazo; a estos efectos se traspasará el importe que representen las deudas a largo plazo con vencimiento a corto a las cuentas correspondientes de los subgrupos 50 y 52.",
+      "cuentas": [
+        {
+          "codigo": "170",
+          "nombre": "Deudas a largo plazo con entidades de crédito",
+          "definición": "\\nLas contraídas con entidades de crédito por préstamos recibidos y otros débitos, con vencimiento superior a un año.Se incluirá, con el debido desarrollo en cuentas de cuatro o más cifras, el importe de las deudas por efectos descontados.",
+          "movDebe": "\\nSe cargará por el reintegro anticipado, total o parcial, con abono, generalmente, a cuentas del subgrupo 57.",
+          "movHaber": "\\nSe abonará:* A la formalización de la deuda o préstamo, por el importe recibido, minorado en los gastos de la transacción, con cargo, generalmente, a cuentas del subgrupo 57.* Por el gasto financiero devengado hasta alcanzar el valor de reembolso de la deuda, con cargo, generalmente, a la cuenta 662."
+        },
+        {
+          "codigo": "171",
+          "nombre": "Deudas a largo plazo",
+          "definición": "\\nLas contraídas con terceros por préstamos recibidos y otros débitos no incluidos en otras cuentas de este subgrupo, con vencimiento superior a un año.",
+          "movDebe": "\\nSe cargará:* Por la aceptación de efectos a pagar, con abono a la cuenta 175.* Por la cancelación anticipada, total o parcial, de las deudas, con abono, generalmente, a cuentas del subgrupo 57.",
+          "movHaber": "\\nSe abonará:* A la formalización de la deuda o préstamo, por el importe recibido, minorado en los costes de la transacción, con cargo, generalmente, a cuentas del subgrupo 57.* Por el gasto financiero devengado hasta alcanzar el valor de reembolso de la deuda, con cargo, generalmente, a la cuenta 662."
+        },
+        {
+          "codigo": "172",
+          "nombre": "Deudas a largo plazo transformables en subvenciones, donaciones y legados",
+          "definición": "\\nCantidades concedidas por las Administraciones Públicas, tanto nacionales como internacionales, empresa o particulares con carácter de subvención, donación o legado reintegrable, con vencimiento superior a un año.",
+          "movDebe": "\\nSe cargará:* Por cualquier circunstancia que determine la reducción total o parcial de las mismas, con arreglo a los términos de su concesión, con abono, generalmente, a la cuenta 4758.* Si pierde su carácter de reintegrable, con abono de su saldo a las cuentas 940, 941 ó 942 o a cuentas del subgrupo 74.",
+          "movHaber": "\\nSe abonará por las cantidades concedidas a la empresa con cargo, generalmente, a cuentas de los subgrupos 47 ó 57."
+        },
+        {
+          "codigo": "173",
+          "nombre": "Proveedores de inmovilizado a largo plazo",
+          "definición": "\\nDeudas con suministradores de bienes definidos en el grupo 2, con vencimiento superior a un año.",
+          "movDebe": "\\nSe cargará:* Por la aceptación de efectos a pagar, con abono a la cuenta 175.* Por la cancelación anticipada, total o parcial, de las deudas, con abono, generalmente, a cuentas del subgrupo 57.",
+          "movHaber": "\\nSe abonará:* Por la recepción a conformidad de los bienes suministrados, con cargo a cuentas del grupo 2.* Por el gasto financiero devengado hasta alcanzar el valor de reembolso de la deuda, con cargo, generalmente, a la cuenta 662."
+        },
+        {
+          "codigo": "174",
+          "nombre": "Acreedores de arrendamiento financiero a largo plazo",
+          "definición": "\\nDeudas con vencimiento superior a un año con otras entidades en calidad de cedentes del uso de bienes, en acuerdos que deban calificarse como arrendamientos financieros en los términos recogidos en las normas de registro y valoración.",
+          "movDebe": "\\nSe cargará por la cancelación anticipada, total o parcial, de las deudas, con abono, generalmente, a cuentas del subgrupo 57.",
+          "movHaber": "\\nSe abonará:* Por la recepción a conformidad del derecho de uso sobre los bienes suministrados, con cargo a cuentas del grupo 2.* Por el gasto financiero devengado hasta alcanzar el valor de reembolso de la deuda, con cargo, generalmente, a la cuenta 662."
+        },
+        {
+          "codigo": "175",
+          "nombre": "Efectos a pagar a largo plazo",
+          "definición": "\\nDeudas contraídas por préstamos recibidos y otros débitos con vencimiento superior a un año, instrumentadas mediante efectos de giro, incluidas aquellas que tengan su origen en suministros de bienes de inmovilizado.",
+          "movDebe": "\\nSe cargará por el pago anticipado de los efectos, con abono, generalmente, a cuentas del subgrupo 57.",
+          "movHaber": "\\nSe abonará:* Cuando la empresa acepte los efectos, con cargo, generalmente, a cuentas de este subgrupo. * Por el gasto financiero devengado hasta alcanzar el valor de reembolso de la deuda, con cargo, generalmente, a la cuenta 662."
+        },
+        {
+          "codigo": "176",
+          "nombre": "Pasivos por derivados financieros a largo plazo",
+          "definición": "\\nImporte correspondiente a las operaciones con derivados financieros con valoración desfavorable para la empresa cuyo plazo de liquidación sea superior a un año.También se incluyen los derivados implícitos de instrumentos financieros híbridos adquiridos, emitidos o asumidos, que cumplan los criterios para su inclusión en esta cuenta, creándose en caso necesario cuentas de cuatro o más cifras que identifiquen que se trata de un derivado implícito. En particular, se recogerán en esta cuenta las primas cobradas en operaciones con opciones, así como, con carácter general, las variaciones en el valor razonable de los pasivos por derivados financieros con los que opere la empresa: opciones, futuros, permutas financieras, compraventa a plazo de moneda extranjera, etc.",
+          "movHaber": "\\nSe abonará por el importe recibido en el momento de la contratación, con cargo,\\ngeneralmente, a cuentas del subgrupo 57.\\nDe igual forma se abonará:\\n1. Cuando el derivado se clasifique en la categoría de \\x93Pasivos financieros mantenidos para negociar\\x94 o en la de \\x93Otros pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias\\x94, se abonará o cargará, por las variaciones en su valor razonable, con cargo o abono, a las cuentas 663 y 763, respectivamente.\\n2. Cuando el derivado se utilice como instrumento de cobertura, en una cobertura de valor razonable se abonará; por el importe que resulte de aplicar las reglas que rigen la\\ncontabilidad de coberturas, con cargo, a la cuenta que corresponda en función de\\nla naturaleza del ingreso que genere la partida cubierta.\\n3. Cuando el derivado se utilice como instrumento de cobertura, en otras operaciones de cobertura, se cargará o abonará, por la ganancia o pérdida del instrumento que se haya determinado como cobertura eficaz, con abono o cargo, a las cuentas del subgrupo 91 y 81, respectivamente, y por la parte ineficaz, a las cuentas 7633 y 6633.",
+          "ejemplos": {}
+        },
+        {
+          "codigo": "177",
+          "nombre": "Obligaciones y bonos",
+          "definición": "\\nObligaciones y bonos en circulación no convertibles en acciones.",
+          "movDebe": "\\nSe cargará por el importe a reembolsar de los valores a la amortización anticipada, total o parcial, de los mismos, con abono, generalmente, a la cuenta 509 y, en su caso, a la cuenta 775.",
+          "movHaber": "\\nSe abonará:* En el momento de la emisión, por el importe recibido, minorado en los gastos de la transacción, con cargo a cuentas del subgrupo 57.* Por el gasto financiero devengado hasta alcanzar el valor de reembolso de la deuda, con cargo, generalmente, a la cuenta 661."
+        },
+        {
+          "codigo": "178",
+          "nombre": "Obligaciones y bonos convertibles",
+          "definición": "\\nComponente de pasivo financiero de las obligaciones y bonos convertibles en acciones, que se califican como instrumentos financieros compuestos.",
+          "movDebe": "\\nSu movimiento es análogo al señalado para la cuenta 177.",
+          "movHaber": "\\nSu movimiento es análogo al señalado para la cuenta 177.",
+          "ejemplos": {}
+        },
+        {
+          "codigo": "179",
+          "nombre": "Deudas representadas en otros valores negociables",
+          "definición": "\\nOtros pasivos financieros representados en valores negociables, ofrecidos al ahorro público, distintos de los anteriores.",
+          "movDebe": "\\nSu contenido y movimiento es análogo al señalado para la cuenta 178 ó 177, dependiendo de si se trata de un instrumento financiero compuesto o no.",
+          "movHaber": "\\nSu contenido y movimiento es análogo al señalado para la cuenta 178 ó 177, dependiendo de si se trata de un instrumento financiero compuesto o no.",
+          "ejemplos": {}
+        }
+      ]
+    },
+    {
+      "definicion": "\\nLas cuentas de este subgrupo figurarán en el pasivo no corriente del balance.La parte de fianzas, anticipos y depósitos recibidos y garantías financieras concedidas a largo plazo cuyo vencimiento o extinción se espere a corto plazo deberá figurar en el pasivo corriente del balance, en el epígrafe Deudas a corto plazo o Periodificaciones a corto plazo, según corresponda; a estos efectos se traspasará el importe que representen las fianzas, anticipos, depósitos recibidos y garantías financieras concedidas a largo plazo con vencivencimiento a corto a las cuentas correspon dientes del subgrupo 48 ó 56.",
+      "cuentas": [
+        {
+          "codigo": "180",
+          "nombre": "Fianzas recibidas a largo plazo",
+          "definición": "\\nEfectivo recibido como garantía del cumplimiento de una obligación, a plazo superior a un año.",
+          "movDebe": "\\nSe cargará:* A la cancelación anticipada, con abono a cuentas del subgrupo 57.* Por incumplimiento de la obligación afianzada que determine pérdidas en la fianza, con abono a la cuenta 759.",
+          "movHaber": "\\nSe abonará:* A la constitución, por el valor razonable del pasivo financiero, con cargo a cuentas del subgrupo 57.* Por el gasto financiero devengado hasta alcanzar el valor de reembolso de la fianza, con cargo, generalmente, a la cuenta 662."
+        },
+        {
+          "codigo": "181",
+          "nombre": "Anticipos recibidos por ventas o prestaciones de servicios a largo plazo",
+          "definición": "\\nImporte recibido a cuenta de futuras ventas o  prestaciones de servicios",
+          "movDebe": "\\nSe cargará cuando se devengue el ingreso, con abono a cuentas del subgrupo 70.",
+          "movHaber": "\\nSe abonará:* Por el importe recibido con cargo a cuentas del subgrupo 57.* Por el importe de los ajustes que surjan por la actualización de su valor, con cargo, generalmente, a la cuenta 662."
+        },
+        {
+          "codigo": "185",
+          "nombre": "Depósitos recibidos a largo plazo",
+          "definición": "\\nEfectivo recibido en concepto de depósito irregular, a plazo superior a un año.",
+          "movDebe": "\\nSe cargará a la cancelación anticipada, con abono a cuentas del subgrupo 57.",
+          "movHaber": "\\nSe abonará:* A la constitución, por el valor razonable del pasivo financiero, con cargo a cuentas del subgrupo 57.* Por el gasto financiero devengado hasta alcanzar el valor de reembolso del depósito, con cargo generalmente, a la cuenta 662."
+        },
+        {
+          "codigo": "189",
+          "nombre": "Garantías financieras a largo plazo",
+          "definición": "\\nGarantías financieras concedidas por la empresa a plazo superior a un año. En particular, avales otorgados, siempre y cuando no proceda su registro en el subgrupo 14.",
+          "movDebe": "\\nSe cargará:* Por la disminución de la obligación y por los ingresos devengados, con abono a la cuenta 769.* A la cancelación anticipada, con abono a cuentas del subgrupo 57.",
+          "movHaber": "\\nSe abonará:* A la constitución, por el valor razonable del pasivo financiero, con cargo a cuentas del subgrupo 57.* Por el gasto financiero devengado, con cargo, generalmente, a la cuenta 662.* Por el aumento de la obligación, con cargo a la cuenta 669.",
+          "ejemplos": {}
+        }
+      ]
+    },
+    {
+      "definicion": "\\nSituaciones transitorias de financiación y todas las cuentas del subgrupo 19:190. Acciones o participaciones emitidas192. Suscriptores de acciones194. Capital emitido pendiente de inscripción195. Acciones o participaciones emitidas consideradas como pasivos financieros197. Suscriptores de acciones consideradas como pasivas financieras199. Acciones o participaciones emitidas consideradas como pasivos financieros pendientes de inscripción",
+      "cuentas": [
+        {
+          "codigo": "190",
+          "nombre": "Acciones o participaciones emitidas",
+          "definición": "\\nCapital social y, en su caso, prima de emisión o asunción de acciones o participaciones con naturaleza de patrimonio neto emitidas y pendientes de suscripción.Figurará en el pasivo corriente del balance, con signo negativo, dentro del epígrafe \"Deudas a corto plazo\".",
+          "movDebe": "\\nSe cargará por el valor nominal y, en su caso, la prima de emisión o asunción de las acciones o participaciones emitidas y pendientes de suscripción, con abono a la cuenta 194.",
+          "movHaber": "\\nSe abonará a medida que se suscriban o asuman las acciones o participaciones:* En los supuestos de fundación simultánea, con cargo, generalmente, a cuentas del subgrupo 57, o a las cuentas 1034 y 1044.* En los supuestos de fundación sucesiva, con cargo, a la cuenta 192.* En los supuestos en que no se suscriban acciones o participaciones emitidas, con cargo a la cuenta 194."
+        },
+        {
+          "codigo": "192",
+          "nombre": "Suscriptores de acciones",
+          "definición": "\\nDerecho de la sociedad a exigir de los suscriptores el importe de las acciones suscritas que tengan naturaleza de patrimonio neto. Figurará en el activo corriente del balance.Figurará en el pasivo corriente del balance, con signo negativo, dentro del epígrafe Deudas a corto plazo.",
+          "movDebe": "\\nSe cargará por el valor nominal y, en su caso, la prima de emisión de las acciones suscritas, con abono a la cuenta 190.",
+          "movHaber": "\\nSe abonará cuando se dé conformidad a la suscripción de las acciones, con cargo, generalmente, a cuentas del subgrupo 57, o a las cuentas 1034 y 1044."
+        },
+        {
+          "codigo": "194",
+          "nombre": "Capital emitido pendiente de inscripción",
+          "definición": "\\nCapital social y, en su caso, prima de emisión o asunción de acciones o participaciones con naturaleza de patrimonio neto emitidas y pendientes de inscripción en el Registro Mercantil.Figurará en el pasivo corriente del balance si en la fecha de formulación de las cuentas anuales no se hubiera producido la inscripción en el Registro Mercantil.",
+          "movDebe": "\\nSe cargará:* En el momento de la inscripción del capital en el Registro Mercantil, con abono a las cuentas 100 y 110. * En los supuestos en que no se suscriban acciones o participaciones emitidas, con abono a la cuenta 190.",
+          "movHaber": "\\nSe abonará por el valor nominal y, en su caso, la prima de emisión de las acciones o participaciones emitidas y pendientes de inscripción, con cargo, a la cuenta 190."
+        },
+        {
+          "codigo": "195",
+          "nombre": "Acciones o participaciones emitidas consideradas como pasivos financieros",
+          "definición": "\\nCapital social y, en su caso, prima de emisión o asunción de acciones o participaciones emitidas consideradas como pasivo financiero y pendientes de suscripción.Figurará en el pasivo corriente del balance, con signo negativo, dentro del epígrafe Deudas a corto plazo con características especiales.",
+          "movDebe": "\\nSe cargará por el valor nominal y, en su caso, la prima de emisión o asunción de las acciones o participaciones emitidas y pendientes de suscripción, con abono a la cuenta 199.",
+          "movHaber": "\\nSe abonará a medida que se suscriban o asuman las acciones o participaciones:* En los supuestos de fundación simultánea, con cargo, generalmente, a cuentas del subgrupo 57 o a las cuentas 153 y 154.* En los supuestos de fundación sucesiva, con cargo a la cuenta 197.* En los supuestos en que no se suscriban acciones o participaciones emitidas, con cargo a la cuenta 199.",
+          "ejemplos": {}
+        },
+        {
+          "codigo": "197",
+          "nombre": "Suscriptores de acciones consideradas como pasivos financieros",
+          "definición": "\\nDerecho de la sociedad a exigir a los suscriptores el importe de las acciones suscritas consideradas como pasivo financiero.Figurará en el pasivo corriente del balance, con signo negativo, dentro del epígrafe Deudas a corto plazo con características especiales.",
+          "movDebe": "\\nSe cargará por el valor nominal y, en su caso, la prima de emisión de las acciones suscritas, con abono a la cuenta 195.",
+          "movHaber": "\\nSe abonará cuando se dé conformidad a la suscripción de las acciones, con cargo, generalmente, a cuentas del subgrupo 57, o a las cuentas 153 y 154.",
+          "ejemplos": {}
+        },
+        {
+          "codigo": "199",
+          "nombre": "Acciones o participaciones emitidas consideradas como pasivos financieros pendientes de inscripción",
+          "definición": "\\nCapital social y, en su caso, prima de emisión o asunción de acciones o participaciones consideradas como pasivo financiero emitidas y pendientes de inscripción en el Registro Mercantil.Figurará en el pasivo corriente del balance, dentro del epígrafe Deudas a corto plazo con características especiales.",
+          "movDebe": "\\nSe cargará:* En el momento de la inscripción del capital en el Registro Mercantil, con abono, a las cuentas 150 y 502.* En los supuestos en que no se suscriban acciones o participaciones emitidas, con abono a la cuenta 195.",
+          "movHaber": "\\nSe abonará por el valor nominal y, en su caso, la prima de emisión o asunción de las acciones o participaciones emitidas y pendientes de inscripción, con cargo, a la cuenta 195.",
+          "ejemplos": {}
+        }
+      ]
+    }
+  ]
+}
